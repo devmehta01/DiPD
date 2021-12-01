@@ -11,6 +11,8 @@ The tweets have following attributes- created_at,retweet_count,followers_count,l
 
 The dataset can be retrieved from the [Drive link](https://drive.google.com/drive/folders/1hFvG6Gzr3bcUxblKb3wpOfO1acBwMyDk?usp=sharing) given. Kindly cite us if you use this dataset.
 
+[Link to the paper](https://arxiv.org/abs/2111.15629)
+
 You can cite using-
 ```
 @misc{soni2021dipd,
