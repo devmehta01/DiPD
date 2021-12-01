@@ -12,3 +12,13 @@ The tweets have following attributes- created_at,retweet_count,followers_count,l
 The dataset can be retrieved from the [Drive link](https://drive.google.com/drive/folders/1hFvG6Gzr3bcUxblKb3wpOfO1acBwMyDk?usp=sharing) given. Kindly cite us if you use this dataset.
 
 You can cite using-
+```
+@misc{soni2021dipd,
+      title={DiPD: Disruptive event Prediction Dataset from Twitter}, 
+      author={Sanskar Soni and Dev Mehta and Vinush Vishwanath and Aditi Seetha and Satyendra Singh Chouhan},
+      year={2021},
+      eprint={2111.15629},
+      archivePrefix={arXiv},
+      primaryClass={cs.SI}
+}
+```
